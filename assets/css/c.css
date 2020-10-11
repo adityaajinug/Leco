@@ -1,0 +1,18 @@
+/* .{
+  width: 27rem;
+} */
+@media (min-width: 768px){
+  .c{
+    width: 40rem;
+    }
+    .i{
+      display: block;
+      margin: auto;
+    }
+}
+
+@media (min-width: 992px) {
+  .c{
+  width: 28rem;
+  } 
+}
